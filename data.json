@@ -1,0 +1,42 @@
+{
+	"details":{
+		"name":"rishi",
+		"image":"image.jpg",
+		"phone":"9989848685",
+		"email":"rishi@gapssdc.in"
+	},
+	"education":[
+		{
+			"course":"B.tech(CSE)",
+			"college":"MIC college",
+			"per":"78%"
+		},
+		{
+			"course":"ssc",
+			"school":"nri indian springs",
+			"per":"60%"
+		},
+		{
+			"course":"inter",
+			"college":"Sri gayathri",
+			"per":"70%"
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming Languages",
+			"output":[
+				"C","C++","JAVA","PYTHON"
+			]
+		},
+		{
+			"title":"operating systems",
+			"output":[
+				"Windows","Linux","MAC"
+			]
+		}
+	],"carrier":{
+		"co":"iam here to develope to develop my knowledge which is very useful for our organisation"
+	}
+	
+}
